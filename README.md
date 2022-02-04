@@ -13,3 +13,4 @@ Here are some thing about me...!!!
 - 😄 Pronouns: ... chandru
 - ⚡ Fun fact: ... commited...
 
+![minions](minions.gif)
