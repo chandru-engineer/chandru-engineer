@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](text_.gif)
+![alt text](text_.gif) ![alt text](text_.gif) ![alt text](text_.gif) ![alt text](text_.gif) ![alt text](text_.gif) ![alt text](text_.gif)
 
 Here are some thing about me...!!!
 
@@ -13,4 +13,4 @@ Here are some thing about me...!!!
 - 😄 Pronouns: ... chandru
 - ⚡ Fun fact: ... commited...
 
-![minions](minions.gif)
+
