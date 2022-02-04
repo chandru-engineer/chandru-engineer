@@ -3,6 +3,7 @@
 ![alt text](text_.gif) 
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 ---
 
 Here are some thing about me...!!!
@@ -18,13 +19,15 @@ Here are some thing about me...!!!
 
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="">
-    <img src="https://imgur.com/PMRCsrH.png" width="40" height="40" alt="YouTube">
+    <img src="tensorflow.svg" width="40" height="40" alt="YouTube">
   </a>
   <a href="">
-    <img src="https://imgur.com/6UKZXAM.png" width="40" height="40" alt="Twitter">
+    <img src="python.svg" width="40" height="40" alt="Twitter">
   </a>
   <a href="">
-    <img src="https://imgur.com/T7LYgQw.png" height="40" width="40" alt="Dev Community Inc.">![linkedin](https://user-images.githubusercontent.com/86843423/152606929-35cf8c1c-b773-4714-be41-743f97a464e5.svg)
-
+    <img src="github.svg" height="40" width="40" alt="Dev Community Inc.">
+  </a>
+   <a href="">
+    <img src="linkedin.svg" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
