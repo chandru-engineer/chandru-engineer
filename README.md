@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](text.gif)
+![alt text](text_.gif)
 
 Here are some ideas to get you started:
 
