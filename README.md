@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![alt text](text.gif)
 
 Here are some ideas to get you started:
 
