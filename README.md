@@ -2,7 +2,7 @@
 
 ![alt text](text_.gif)
 
-Here are some ideas to get you started:
+Here are some thing about me...!!!
 
 - 🔭 I’m currently working on ... SD Pro Solutions
 - 🌱 I’m currently learning ... Django FrameWork
