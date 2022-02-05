@@ -17,6 +17,9 @@ Here are some thing about me...!!!
 - 😄 Pronouns: ... chandru
 - ⚡ Fun fact: ... commited...
 
+---
+
+
 <div align="center" style="display: flex; justify-content: space-between;">
   <a href="">
     <img src="tensorflow.svg" width="40" height="40" alt="YouTube">
@@ -27,7 +30,7 @@ Here are some thing about me...!!!
   <a href="">
     <img src="github.svg" height="40" width="40" alt="Dev Community Inc.">
   </a>
-   <a href="">
+   <a href="https://www.linkedin.com/in/chandru-gs-5b730a219/">
     <img src="linkedin.svg" height="40" width="40" alt="Dev Community Inc.">
   </a>
 <div>
