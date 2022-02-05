@@ -15,7 +15,7 @@ Here are some thing about me...!!!
 - 💬 Ask me about ... Machine learning
 - 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/chandru-gs-5b730a219/)
 - 😄 Pronouns: ... chandru
-- ⚡ Fun fact: python lover...
+- ⚡ Fun fact: ...Commited with Computers...
 
 ---
 
