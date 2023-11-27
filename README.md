@@ -1,20 +1,39 @@
-<p align="center">
-  <img src="title.jpg" alt="Profile Header">
-</p>
+<div align="center">
+  <img src="title.jpg" alt="Profile Header" width="600">
+</div>
 
 <h1 align="center">Hi there, I'm Chandru! 👋</h1>
 
 <p align="center">
-  <em>🌱 Currently learning Django Framework | 🤔 Seeking help with DevOps | 😄 Pronouns: Chandru | ⚡ Fun Fact: Committed with Computers</em>
+  <em>🌱 Currently mastering Django | 🤔 Exploring the world of DevOps | 😄 Pronouns: Chandru | ⚡ Fun Fact: Committed with Computers</em>
 </p>
 
-<h3 align="center">About Me</h3>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  Hello! I'm Chandru, and I'm passionate about exploring the vast world of technology. My journey involves constant learning, and currently, I'm diving into the intricacies of the Django Framework. With a commitment to excellence, I find joy in collaborating with computers and turning ideas into reality through code.
+  Hey, I'm Chandru, a Python Developer based in Bangalore, India. My coding journey is fueled by a passion for technology. Currently, I'm delving into the intricacies of the Django Framework, mastering the art of web development. With a commitment to excellence, I find joy in collaborating with computers to turn ideas into reality through code.
 </p>
 
-<h3 align="center">Get in Touch</h3>
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  📧 Email: <a href="mailto:tochandru.engineer@gmail.com">tochandru.engineer@gmail.com</a><br>
+  📍 Location: Bangalore, India
+</p>
+
+<h2 align="center">Skills</h2>
+
+<p align="center">
+  Python | Flask | REST APIs | GraphQL | Celery | JavaScript
+</p>
+
+<h2 align="center">Portfolio</h2>
+
+<p align="center">
+  Check out my personal portfolio: <a href="https://chandru.analyticalio.com/" target="_blank">Chandru's Portfolio</a>
+</p>
+
+<h2 align="center">Get in Touch</h2>
 
 <p align="center">
   📫 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/chandru-gs/">Chandru on LinkedIn</a>
@@ -24,8 +43,6 @@
   Let's connect and embark on this exciting journey of knowledge and innovation together!
 </p>
 
----
-
-<p align="center">
+<div align="center">
   <em>Feel free to explore, and happy coding! 🚀</em>
-</p>
+</div>
