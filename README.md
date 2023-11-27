@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](text_.gif) 
+![alt text](title.jpg) 
 
 ---
 
