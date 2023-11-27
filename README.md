@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="title1.jpg" alt="Profile Header">
+  <img src="title1.png" alt="Profile Header">
 </div>
 
 <h1 align="center">Hi there, I'm Chandru! 👋</h1>
