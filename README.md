@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt text](title.jpg) 
 
 ---
