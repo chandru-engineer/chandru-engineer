@@ -24,7 +24,7 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  Python | Flask | REST APIs | GraphQL | Celery | JavaScript
+  Python | Flask | Django | Fast APIs | REST APIs | GraphQL | Celery | JavaScript
 </p>
 
 <h2 align="center">Portfolio</h2>
