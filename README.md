@@ -30,7 +30,7 @@
 <h2 align="center">Portfolio</h2>
 
 <p align="center">
-  Check out my personal portfolio: <a href="https://chandru-engineer.github.com/" target="_blank">Chandru's Portfolio</a>
+  Check out my personal portfolio: <a href="https://chandru-engineer.github.io/" target="_blank">Chandru's Portfolio</a>
 </p>
 
 <h2 align="center">Get in Touch</h2>
